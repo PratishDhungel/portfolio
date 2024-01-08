@@ -1,0 +1,30 @@
+.btn{
+    display: inline-block;
+    padding: 24px 48px;
+    text-decoration: none;
+    border-radius: 50px;
+    color: white;
+    background-color: black;
+    font-size: 21px;
+}
+
+.btn.btn-primary{
+    background: linear-gradient(to right, #FE572E 0%, #FF4C80 100%); 
+}
+
+.btn-secondary{
+    background-color: #FC3A79;
+    border-radius: 8px;
+    text-decoration: none;
+    color: white;
+    padding: 32px;
+}
+
+.btn-secondary-two{
+    font-weight: 400;
+    background-color: #F3F2F1;
+    border-radius: 8px;
+    text-decoration: none;
+    color: #261F22;
+    padding: 32px;
+}

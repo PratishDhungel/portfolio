@@ -1,0 +1,6 @@
+/* global css */
+@import "/assests/css/global.css";
+
+/* components css */
+@import "./assests/css/components/button.css";
+@import "./assests/css/components/card.css";
