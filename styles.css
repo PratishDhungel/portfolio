@@ -4,3 +4,7 @@
 /* components css */
 @import "./assests/css/components/button.css";
 @import "./assests/css/components/card.css";
+
+
+/* module css */
+@import "./assests/css/modules/form.css";

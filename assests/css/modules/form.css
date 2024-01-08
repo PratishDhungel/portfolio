@@ -1,0 +1,67 @@
+.form_content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form_detail{
+    margin: 286px 128px 286px 0px;
+}
+
+.form_detail h3{
+    font-weight: bold;
+}
+
+.email_phnum{
+    font-size: 15px;
+    font-weight: 700;
+    display: flex;
+}
+
+.email_phnum .email{
+    color: #FC3A79;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+
+.nameandemail, .budgetandtimeline{
+    display: flex;
+}
+
+label{
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+form input, form textarea {
+    margin-bottom: 32px;
+    background-color: #F3F2F1;
+    border: none;
+}
+
+#Name, #email, #bdgrng, #timeline {
+    width: 338px;
+    height: 78px;
+}
+
+#prjdetails{
+    width: 708px;
+    height: 228px;
+}
+
+.name, .email, .budget, .timeline{
+    margin-right: 32px;
+}
+
+form .btn{
+    display: flex;
+    justify-content: center;
+    width: 708px;
+}
+
+form .btn img{
+    margin-left: 16px;
+}
