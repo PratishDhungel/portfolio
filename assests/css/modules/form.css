@@ -52,7 +52,7 @@ form input, form textarea {
     height: 228px;
 }
 
-.name, .email, .budget, .timeline{
+.name,.email_phnum .email, .budget, .timeline{
     margin-right: 32px;
 }
 

@@ -1,0 +1,55 @@
+.site-header{
+    margin-top: 32px;
+    padding-bottom: 36px;
+    border-bottom: 2px solid #261F2240;
+}
+
+.nav-bar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.nav-links a{
+    text-decoration: none;
+    color: #261F22;
+}
+
+.nav-links .email{
+    color: #FC3A79;
+}
+
+.nav-links li{
+    margin-right: 32px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+li>img{
+    margin-right: 64px;
+}
+
+.dribbble{
+    position: relative;
+    bottom: 3px;
+}
+
+.details, .social_media{
+    display: flex;
+    align-items: center;
+}
+
+.details{
+    padding-right: 64px;
+    border-right: 2px solid #261F2240;
+}
+
+.social_media{
+    padding-left: 64px;
+}
