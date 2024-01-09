@@ -8,4 +8,5 @@
 
 /* module css */
 @import "./assests/css/modules/header-nav-bar.css";
+@import "./assests/css/modules/intro.css";
 @import "./assests/css/modules/form.css";

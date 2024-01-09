@@ -1,0 +1,30 @@
+.intro{
+    margin: 256px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.intro h3{
+    color: #FF4C80;
+}
+
+.intro h1{
+    font-weight: bold;
+}
+
+.intro p{
+    width: 672px;
+    margin-bottom: 96px;
+}
+
+.intro .btn{
+    display: flex;
+    justify-content: space-between;
+}
+
+.intro .btn img{
+    padding-left: 16px;
+}
