@@ -1,7 +1,7 @@
 .site-header{
     margin-top: 32px;
-    padding-bottom: 36px;
-    border-bottom: 2px solid #261F2240;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #261F2240;
 }
 
 .nav-bar{
@@ -37,7 +37,7 @@ li>img{
 
 .dribbble{
     position: relative;
-    bottom: 3px;
+    bottom: 2px;
 }
 
 .details, .social_media{
@@ -47,7 +47,7 @@ li>img{
 
 .details{
     padding-right: 64px;
-    border-right: 2px solid #261F2240;
+    border-right: 1px solid #261F2240;
 }
 
 .social_media{

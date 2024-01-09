@@ -1,0 +1,26 @@
+.footer_content{
+    font-size: 15px;
+    color: #261F22BF;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 32px 0px;
+}
+
+.site-footer{
+    border-top: 1px solid #261F221A;
+}
+
+.terms_conditions{
+    font-weight: bold;
+    width: 258px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.social_medias{
+    width: 126px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

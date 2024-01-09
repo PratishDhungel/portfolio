@@ -1,0 +1,29 @@
+.avaibility {
+    display: flex;
+    flex-direction: column;
+    margin: 0px 256px 96px 256px;
+}
+
+.avaibility h4{
+    font-weight: bold;
+}
+
+.avaibility p{
+    font-size: 21px;
+}
+
+.info_details{
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.info_details .email{
+    color: #FC3A79;
+    margin-right: 32px;
+}
+
+.avaibility .btn{
+    margin-top: 96px;
+    margin-bottom: 256px;
+    width: 400px;
+}

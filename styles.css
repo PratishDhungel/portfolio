@@ -7,6 +7,10 @@
 
 
 /* module css */
-@import "./assests/css/modules/header-nav-bar.css";
+@import "./assests/css/header.css";
 @import "./assests/css/modules/intro.css";
+@import "./assests/css/modules/companies.css";
+@import "./assests/css/modules/mywork.css";
 @import "./assests/css/modules/form.css";
+@import "./assests/css/modules/avaibility.css";
+@import "./assests/css/footer.css";
