@@ -9,6 +9,13 @@
     align-items: center;
 }
 
+.card{
+    margin: 128px ;
+}
+
+.card h5{
+    font-weight: bold;
+}
 
 .card img {
     margin-top: 32px;
@@ -17,6 +24,10 @@
 .card .img2{
     position: relative;
     right: 25px;
+}
+
+.card span{
+    font-weight: bold;
 }
 
 /* .img img:last-child{
@@ -42,6 +53,5 @@
 }
 
 .card2{
-   width: 450.67px;
     margin-right: 96px;
 }

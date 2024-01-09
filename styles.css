@@ -6,11 +6,18 @@
 @import "./assests/css/components/cards.css";
 
 
-/* module css */
+/*index module css */
 @import "./assests/css/header.css";
-@import "./assests/css/modules/intro.css";
-@import "./assests/css/modules/companies.css";
-@import "./assests/css/modules/mywork.css";
-@import "./assests/css/modules/form.css";
-@import "./assests/css/modules/avaibility.css";
+@import "./assests/css/modules/index_module/intro.css";
+@import "./assests/css/modules/index_module/companies.css";
+@import "./assests/css/modules/index_module/mywork.css";
+@import "./assests/css/modules/index_module/avaibility.css";
 @import "./assests/css/footer.css";
+
+/* about me css */
+@import "./assests/css/modules/aboutme_module/about_me_name.css";
+@import "./assests/css/modules/aboutme_module/project_size.css";
+@import "./assests/css/modules/aboutme_module/about_me_cards.css";
+
+/* contact module css */
+@import "./assests/css/modules/index_module/form.css";

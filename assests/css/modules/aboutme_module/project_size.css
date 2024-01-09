@@ -1,0 +1,16 @@
+.project_size{
+    display: flex;
+    margin-bottom: 256px;
+}
+
+.project_size .card2{
+width: 596px;
+}
+
+.project_size h3 {
+    margin-bottom: 96px;
+}
+
+.project_size img{
+    margin-bottom: 32px;
+}

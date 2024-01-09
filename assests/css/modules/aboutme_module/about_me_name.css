@@ -1,0 +1,13 @@
+.about_me_name{
+    width: 1048px;
+    margin: 256px 256px 128px 256px;
+}
+
+.about_me_name h2{
+    font-weight: bold;
+}
+
+.about_me_img{
+    object-fit: cover;
+}
+
