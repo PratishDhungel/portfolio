@@ -6,10 +6,25 @@
     color: white;
     background-color: black;
     font-size: 21px;
+    transition: all 0.5s;
+    border: 1px solid transparent;
 }
 
-.btn.btn-primary{
-    background: linear-gradient(to right, #FE572E 0%, #FF4C80 100%); 
+.btn:hover {
+    color: black;
+    border-color: black;
+    background-color: white;
+}
+
+.btn-primary{
+    background: linear-gradient(to right, #FE572E 0%, #FF4C80 100%);
+    transition: all 0.5s;
+    border: 1px solid transparent; 
+}
+
+.btn-primary:hover {
+    color: black;
+    border-color: transparent;
 }
 
 .btn-secondary{
@@ -18,13 +33,27 @@
     text-decoration: none;
     color: white;
     padding: 32px;
+    transition: all 0.5s;
+    border: 1px solid transparent;
 }
 
-.btn-secondary-two{
+.btn-secondary:hover{
+    background-color: #F3F2F1;
+    border: 1px solid #FC3A79;
+    color: #FC3A79;
+}
+
+.btn-tertiary{
     font-weight: 400;
     background-color: #F3F2F1;
     border-radius: 8px;
     text-decoration: none;
     color: #261F22;
     padding: 32px;
+    transition: all 0.5s;
+    border: 1px solid transparent;
+}
+
+.btn-tertiary:hover{
+    border-color: #261F22;
 }

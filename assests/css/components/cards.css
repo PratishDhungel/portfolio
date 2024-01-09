@@ -35,3 +35,13 @@
     transform:translate(310px,35px);
     z-index: 2;
 } */
+
+.cards2{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card2{
+   width: 450.67px;
+    margin-right: 96px;
+}
