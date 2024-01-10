@@ -1,0 +1,40 @@
+.tools_button{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 96px;
+}
+
+.tools_buttontxt{
+    background-color: #F3F2F1;
+    padding: 24px 48px;
+    border-radius: 50px;
+    width: 683px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.tools_buttontxt a{
+    text-decoration: none;
+    color: #261F2280;
+    transition: all 1.5s;
+}
+
+.tools_buttontxt a:hover{
+color: black;
+}
+
+.tools_applications{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 256px;
+}
+
+.tools_applications img{
+    margin: 16px;
+    transition: all 0.5s;
+}
+
+.tools_applications img:hover{
+    transform:scale(1.1,1.1);
+}
