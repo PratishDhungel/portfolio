@@ -1,13 +1,21 @@
 .project_size{
-    display: flex;
+    /* display: flex; */
+    justify-content: space-between;
     margin-bottom: 256px;
+}
+
+.project_size .cards1{
+    display: flex;
 }
 
 .project_size .card2{
 width: 596px;
+margin-right: 96px;
 }
 
 .project_size h3 {
+    font-size: bolder;
+    text-align: left;
     margin-bottom: 96px;
 }
 

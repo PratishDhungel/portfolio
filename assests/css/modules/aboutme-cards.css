@@ -4,6 +4,4 @@
 
 .about_me_cards .cards{
     display: flex;
-    justify-content: space-between;
 }
-

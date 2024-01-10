@@ -10,7 +10,7 @@
 }
 
 .card{
-    margin: 128px ;
+    margin: 128px;
 }
 
 .card h5{
@@ -48,10 +48,27 @@
 } */
 
 .cards2{
+    margin: 246px 128px 96px 128px;
     display: flex;
-    flex-wrap: wrap;
+    justify-content: space-between;
+    /* flex-wrap: wrap; */
+}
+
+.cards2 img{
+    margin-bottom: 32px;
+}
+
+.cards2 h5{
+    width: 470px;
+    font-weight: bold;
+    margin-bottom: 32px;
+}
+
+.cards p{
+    width: 450.67px;
 }
 
 .card2{
+    width: 450px ;
     margin-right: 96px;
 }

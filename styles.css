@@ -1,5 +1,7 @@
 /* global css */
 @import "/assests/css/global.css";
+@import "./assests/css/header.css";
+@import "./assests/css/footer.css";
 
 /* components css */
 @import "./assests/css/components/button.css";
@@ -7,17 +9,16 @@
 
 
 /*index module css */
-@import "./assests/css/header.css";
-@import "./assests/css/modules/index_module/intro.css";
-@import "./assests/css/modules/index_module/companies.css";
-@import "./assests/css/modules/index_module/mywork.css";
-@import "./assests/css/modules/index_module/avaibility.css";
+@import "./assests/css/modules/index-intro.css";
+@import "./assests/css/modules/index-companies.css";
+@import "./assests/css/modules/index-mywork.css";
+@import "./assests/css/modules/index-avaibility.css";
 @import "./assests/css/footer.css";
 
 /* about me css */
-@import "./assests/css/modules/aboutme_module/about_me_name.css";
-@import "./assests/css/modules/aboutme_module/project_size.css";
-@import "./assests/css/modules/aboutme_module/about_me_cards.css";
+@import "./assests/css/modules/aboutme-name.css";
+@import "./assests/css/modules/aboutme-projectsize.css";
+@import "./assests/css/modules/aboutme-cards.css";
 
 /* contact module css */
-@import "./assests/css/modules/index_module/form.css";
+@import "./assests/css/modules/contact-form.css";
